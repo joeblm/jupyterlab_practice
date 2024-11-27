@@ -1,1 +1,2 @@
 # jupyterlab_practice
+This repo contains my answers to assignment 7 covering Jupyter notebooks. I learned how to add and use markdown cells to display formatted content, special functions of code cells such as views and magic commands.
